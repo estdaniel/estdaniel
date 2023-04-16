@@ -1,16 +1,13 @@
-### Hi there 👋
+#Daniel Andres Franco  Hernandez
+##### Estudiante de UTEC. carrera Ing.En sistemas y computacion.
+#####Tengo 20 años.
+1.asignatura que estoy estudiando.
+-Algoritmos 1
+-Matematicas 1
+-SETACO
+-ORTI
 
-<!--
-**estdaniel/estdaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Mis horarios de estudios son :
+1.Lunes y vienes de 6:30am-9 :30am.
+2.Lunes y Miercoles de 5:00pm - 6:30pm.
+3.Miercoles y Sabado de 6:30am - 8:30am.
